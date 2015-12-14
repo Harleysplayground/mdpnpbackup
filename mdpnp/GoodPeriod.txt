@@ -1,0 +1,23 @@
+
+Sample = 1000  good one??
+
+
+
+{
+
+NOM_ATTR_ID_HANDLE=[attrId=NOM_ATTR_ID_HANDLE,value=715],
+NOM_ATTR_ID_TYPE=[attrId=NOM_ATTR_ID_TYPE,value=[nomPartition=Object,oidType=NOM_MOC_VMO_METRIC_SA_RT]],
+NOM_ATTR_METRIC_SPECN=[attrId=NOM_ATTR_METRIC_SPECN,value=[updatePeriod=2048(256ms),category=AUTO_MEASUREMENT,structure=[structure=0,maxNumberOfComponents=0],relevance=0]],
+
+NOM_ATTR_SA_SPECN=[attrId=NOM_ATTR_SA_SPECN,value=[arraySize=128,sampleSize=16,significantBits=14,flags=STATIC SCALE SA_EXT_VAL_RANGE ]],
+NOM_ATTR_SA_FIXED_VAL_SPECN=[attrId=NOM_ATTR_SA_FIXED_VAL_SPECN,value=[[valId=SA_FIX_SATURATION,fixedValue=32776], [valId=SA_FIX_DEFIB_MARKER_MASK,fixedValue=16385], [valId=SA_FIX_PACER_MASK,fixedValue=32772]]],
+NOM_ATTR_TIME_PD_SAMP=[attrId=NOM_ATTR_TIME_PD_SAMP,value=16 (2ms)],
+NOM_ATTR_ID_LABEL=[attrId=NOM_ATTR_ID_LABEL,value=131330],
+NOM_ATTR_ID_LABEL_STRING=[attrId=NOM_ATTR_ID_LABEL_STRING,value=II    ],
+NOM_ATTR_UNIT_CODE=[attrId=NOM_ATTR_UNIT_CODE,value=NOM_DIM_MILLI_VOLT],NOM_ATTR_MODE_MSMT=[attrId=NOM_ATTR_MODE_MSMT,value=[ECG_NONPACED ECG_MONITOR ECG_LEAD_PRIMARY ],
+NOM_ATTR_COLOR=[attrId=NOM_ATTR_COLOR,value=Green],
+NOM_ATTR_METRIC_STAT=[attrId=NOM_ATTR_METRIC_STAT,value=ON],
+NOM_ATTR_SCALE_SPECN_I16=[attrId=NOM_ATTR_SCALE_SPECN_I16,value=[lowerAbsoluteValue=-40.96,upperAbsoluteValue=40.955,lowerScaledValue=0,upperScaledValue=16383]],
+NOM_ATTR_SA_CALIB_I16=[oid=NOM_ATTR_SA_CALIB_I16,value=[09 64 00 10 00 00 00 00 00 00 00 01 1F A2 20 6A 00 00 00 00]],
+NOM_ATTR_SA_RANGE_PHYS_I16=[attrId=NOM_ATTR_SA_RANGE_PHYS_I16,value=[lowerScaledValue=7998,upperScaledValue=8398]],
+NOM_ATTR_SA_VAL_OBS=[attrId=NOM_ATTR_SA_VAL_OBS,value=[physioId=NOM_ECG_ELEC_POTL_II,state=[INVALID],length=256,value=[32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6, 32, 6]]]}

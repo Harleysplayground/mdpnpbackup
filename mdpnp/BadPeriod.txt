@@ -1,0 +1,28 @@
+
+Sample = 500 bad?
+
+
+{
+
+NOM_ATTR_METRIC_STAT=[attrId=NOM_ATTR_METRIC_STAT,value=ON], 
+NOM_ATTR_ID_HANDLE=[attrId=NOM_ATTR_ID_HANDLE,value=715], 
+NOM_ATTR_ID_LABEL=[attrId=NOM_ATTR_ID_LABEL,value=131328], 
+NOM_ATTR_SA_CALIB_I16=[oid=NOM_ATTR_SA_CALIB_I16,value=[09 64 00 10 00 00 00 00 00 00 00 01 1F 9C 20 64 00 00 00 00]], NOM_ATTR_MODE_MSMT=[attrId=NOM_ATTR_MODE_MSMT,value=[ECG_NONPACED ECG_MONITOR ], 
+NOM_ATTR_ID_LABEL_STRING=[attrId=NOM_ATTR_ID_LABEL_STRING,value=ECG   ], NOM_ATTR_SA_CMPD_VAL_OBS=[attrId=NOM_ATTR_SA_CMPD_VAL_OBS,value=[[physioId=NOM_ECG_ELEC_POTL_II,state=[],length=128,value=[31, 220, 31, 227, 31, 227, 31, 222, 31, 230, 31, 238, 31, 235, 31, 236, 31, 235, 31, 236, 31, 243, 31, 241, 31, 241, 31, 246, 31, 243, 31, 242, 31, 244, 31, 247, 31, 250, 31, 249, 31, 244, 31, 250, 32, 0, 31, 255, 31, 243, 31, 245, 32, 1, 31, 254, 31, 247, 31, 251, 32, 5, 32, 5, 31, 252, 31, 249, 31, 248, 31, 245, 31, 239, 31, 242, 31, 249, 31, 253, 31, 251, 31, 245, 31, 253, 32, 3, 31, 253, 31, 246, 31, 248, 31, 247, 31, 247, 31, 239, 31, 235, 31, 244, 31, 243, 31, 238, 31, 236, 31, 230, 31, 222, 31, 234, 31, 243, 31, 244, 31, 246, 31, 241, 31, 237, 31, 237]]]], NOM_ATTR_SA_SPECN=[attrId=NOM_ATTR_SA_SPECN,value=[arraySize=64,sampleSize=16,significantBits=14,flags=STATIC SCALE SA_EXT_VAL_RANGE ]], NOM_ATTR_TIME_PD_SAMP=[attrId=NOM_ATTR_TIME_PD_SAMP,value=32 (4ms)], 
+NOM_ATTR_ID_TYPE=[attrId=NOM_ATTR_ID_TYPE,value=[nomPartition=Object,oidType=NOM_MOC_VMO_METRIC_SA_RT]], 
+NOM_ATTR_SCALE_SPECN_I16=[attrId=NOM_ATTR_SCALE_SPECN_I16,value=[lowerAbsoluteValue=-40.96,upperAbsoluteValue=40.955,lowerScaledValue=0,upperScaledValue=16383]], 
+
+NOM_ATTR_COLOR=[attrId=NOM_ATTR_COLOR,value=Green], 
+NOM_ATTR_SA_FIXED_VAL_SPECN=[attrId=NOM_ATTR_SA_FIXED_VAL_SPECN,value=[[valId=SA_FIX_SATURATION,fixedValue=32776], [valId=SA_FIX_DEFIB_MARKER_MASK,fixedValue=16385], [valId=SA_FIX_PACER_MASK,fixedValue=32772]]], 
+NOM_ATTR_UNIT_CODE=[attrId=NOM_ATTR_UNIT_CODE,value=NOM_DIM_MILLI_VOLT], 
+NOM_ATTR_METRIC_SPECN=[attrId=NOM_ATTR_METRIC_SPECN,value=[updatePeriod=2048 (256ms),category=AUTO_MEASUREMENT,access=[UPD_PERIODIC|ACC_SCAN|GEN_OPT_SYNC],structure=[structure=1,maxNumberOfComponents=3],relevance=0]]}
+
+
+
+    unique_device_identifier: qRmoi0PH5GUrocpBo4fXqIDLowPUmElw1vzg
+    metric_id: MDC_ECG_LEAD_II
+    vendor_metric_id: NOM_ECG_ELEC_POTL_II
+    instance_id: 715
+    unit_id: MDC_DIM_MILLI_VOLT
+    frequency: 500
+    values :
